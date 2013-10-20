@@ -21,7 +21,8 @@ include ("includes/masthead.php");
 
             foreach ($cupcakes as $cupcake)
             {
-                echo '<li> <a href ="details.php?id=15"> cupcake name </a>            </li>'
+               
+                echo '<li> <a href ="details.php?id='.$cupcake["id"].'">'.$cupcake["name"].'</a></li>';
             }
                
             

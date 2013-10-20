@@ -10,7 +10,20 @@ include ("includes/masthead.php");
 			//and displaying the details for one cupcake.
 			//get the cupcake id from the query string
 			//display the name, price and description for the selected cupcake
-			
+
+          
+
+            $cupcakeId = $_GET['id'];
+            
+               $cupcake = $cupcakes[$cupcakeId];
+
+
+                echo '<h1>'.$cupcake['name'].'</h1>';
+                echo '<p>'.$cupcake['price'].'</p>';
+                echo '<p>'.$cupcake['description'].'</p>';
+
+
+              
             ?>
         </section>
 <?php
