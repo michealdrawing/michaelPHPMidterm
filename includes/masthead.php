@@ -15,11 +15,11 @@
         
         <nav class="nav">
         	<ul class="navbar">
-            	<li><a href="#">Home</a></li>
-            	<li><a href="#">Cupcakes</a></li>
-            	<li><a href="#">Recipes</a></li>
-            	<li><a href="#">Confections</a></li>
-            	<li><a href="#">Contact</a></li>
+            	<li><a href="index.php">Home</a></li>
+            	<li><a href="index.php">Cupcakes</a></li>
+            	<li><a href="index.php">Recipes</a></li>
+            	<li><a href="index.php">Confections</a></li>
+            	<li><a href="index.php">Contact</a></li>
             </ul>
         </nav>
         
