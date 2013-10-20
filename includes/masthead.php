@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Cupcakes Bitch!</title>
+	<title>Cupcakes !</title>
     <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
 	<link href="main.css" rel="stylesheet" />
 </head>
@@ -10,7 +10,7 @@
 <body>
 	<div id="wrapper">
     	<header class="masthead">
-        	<h1>Cupcakes Bitch!</h1>
+        	<h1>Cupcakes !</h1>
         </header>
         
         <nav class="nav">
