@@ -7,25 +7,25 @@
 }	
 body{
 	font-size: 62.5%;	
-	font-family: 'PT Sans', Helvetica, Arial, sans-serif;
+font-family: 'Prosto One', cursive;	
 	background-color: #4D261E;
 }
 h1, h2, h3{
 	font-weight: 700;	
 	padding: 10px 20px;
 	color: #000;
-	font-family: 'Prosto One', cursive;	
+	font-family: 'Frijole', cursive;
 }
 h1{
 
-	font-size: 3.6rem;	
+	font-size: 2.6rem;	
 }
 h2{
 	font-size: 3.0rem;	
 }
 h3{
-	font-size: 2.4rem;
-	color: #494949;	
+	font-size: 2.0rem;
+	color: #000;	
 }
 p, li, a{
 	font-weight: 400;
@@ -47,16 +47,21 @@ a{
 	max-width: 960px;
 	margin: 0 auto 20px auto;
 	border:1px solid #aaa;
-	background-color: #DB769E;	
+	background-color: #DB769E;
+	
+
+
 }
 .masthead{
 	width:100%;
 	background-color: #42282F;
-	color: #000
+	color: #000;
+	background-image: url(image/Yummy/PNG/48x48/8_48x48.png);
+	
 }
 .nav{
 	width:100%;
-	background-color: 64141;
+	background-color: #64141;
 }
 .navbar{
 	overflow:hidden;
@@ -65,6 +70,7 @@ a{
 .main{
 	width: 590px;
 	float: left;
+
 
 }
 .sidebar{
@@ -81,6 +87,7 @@ a{
 	color: #fff;	
 	padding: 30px 20px;
 	font-family: 'Frijole', cursive;
+
 }
 
 /***********************************

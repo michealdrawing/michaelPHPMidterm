@@ -5,13 +5,14 @@
 	<title>Cupcakes !</title>
     <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Frijole' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Prosto+One' rel='stylesheet' type='text/css'>
     <link href="main.css" rel="stylesheet" />
 </head>
 
 <body>
 	<div id="wrapper">
     	<header class="masthead">
-        	<h1>Cupcakes !</h1>
+        	<h1>Cupcakes and Monkies !</h1>
         </header>
         
         <nav class="nav">
