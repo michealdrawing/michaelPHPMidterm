@@ -1,6 +1,6 @@
 
        <footer class="footer">
-        	<p>&copy; 2013 Cupcakes!</p>
+        	<p>&copy; 2013 Cupcakes and Monkies!</p>
         </footer>
 </body>
 </html>

@@ -56,7 +56,7 @@ a{
 	width:100%;
 	background-color: #42282F;
 	color: #000;
-	background-image: url(image/Yummy/PNG/48x48/8_48x48.png);
+	
 	
 }
 .nav{
@@ -70,12 +70,14 @@ a{
 .main{
 	width: 590px;
 	float: left;
+	
 
 
 }
 .sidebar{
 	width: 370px;
 	float:right;
+	
 }
 .footer{
 	clear:both;
