@@ -55,6 +55,8 @@ a{
 .masthead{
 	width:100%;
 	background-color: #42282F;
+	background-image:url(image/masterHead.png);
+	background-repeat:no-repeat;
 	color: #000;
 	
 	
