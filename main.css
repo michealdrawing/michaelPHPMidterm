@@ -12,7 +12,7 @@ font-family: 'Prosto One', cursive;
 }
 h1, h2, h3{
 	font-weight: 700;	
-	padding: 10px 20px;
+	padding: 10px 40px;
 	color: #000;
 	font-family: 'Frijole', cursive;
 }
@@ -47,7 +47,7 @@ a{
 	max-width: 960px;
 	margin: 0 auto 20px auto;
 	border:1px solid #aaa;
-	background-color: #DB769E;
+	background-color: #fff;
 	
 
 
@@ -63,7 +63,7 @@ a{
 }
 .nav{
 	width:100%;
-	background-color: #64141;
+	/*background-color: #42282F;*/
 }
 .navbar{
 	overflow:hidden;
@@ -88,7 +88,7 @@ a{
 					Masthead
 ***********************************/
 .masthead h1{
-	color: #fff;	
+	color: #000;	
 	padding: 30px 20px;
 	font-family: 'Frijole', cursive;
 
@@ -114,12 +114,16 @@ a{
 .navbar a:hover,
 .navbar a:active,
 .navbar a:focus{
-	color: #77443A;
-	background-color: #D0AD6E;
+	color: #F25D27;
+	background-color: #271f1a;
 	font-family: 'Prosto One', cursive;
 
 }
+ a:hover,
 
+{
+	color:  #F2D129;
+}
 /***********************************
 					Content
 ***********************************/
@@ -127,7 +131,7 @@ a{
 
 	font-size: 1.4rem;
 	font-family: 'Prosto One', cursive;
-	background-color: #D98484;
+	background-color: #fff;
 
 }
 
@@ -140,5 +144,5 @@ a{
 	color: #F2F2F2;
 	font-family: 'Prosto One', cursive;	
 	text-align: center;	
-	background-color: #42282F;
+	background-color: #271f1a;
 }
