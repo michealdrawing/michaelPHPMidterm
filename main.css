@@ -18,7 +18,8 @@ h1, h2, h3{
 }
 h1{
 
-	font-size: 2.6rem;	
+	font-size: 2.6rem;
+	margin-top: 18px;	
 }
 h2{
 	font-size: 3.0rem;	
@@ -119,13 +120,14 @@ a{
 	font-family: 'Prosto One', cursive;
 
 }
- a:hover,
+
+.navbar a:hover,
 
 {
 	color:  #F2D129;
 }
 /***********************************
-					Content
+					Content list slyle imag
 ***********************************/
 .sidebar p{
 

@@ -12,7 +12,7 @@
 <body>
 	<div id="wrapper">
     	<header class="masthead">
-        	<h1>Cupcakes and Monkies !</h1>
+        	<h1>Cupcakes!</h1>
         </header>
         
         <nav class="nav">
